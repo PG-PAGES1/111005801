@@ -1,0 +1,173 @@
+
+game_bg.png
+size: 1124,1390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+48c40295-45c7-4720-8749-5000faeaff94.3a2db/player_01_bg
+  rotate: false
+  xy: 138, 45
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+48c40295-45c7-4720-8749-5000faeaff94.3a2db/player_02_bg
+  rotate: false
+  xy: 319, 314
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+48c40295-45c7-4720-8749-5000faeaff94.3a2db/player_03_bg
+  rotate: false
+  xy: 319, 175
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+48c40295-45c7-4720-8749-5000faeaff94.3a2db/player_04_bg
+  rotate: true
+  xy: 319, 39
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+48c40295-45c7-4720-8749-5000faeaff94.3a2db/player_05_bg
+  rotate: true
+  xy: 2, 2
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_00
+  rotate: false
+  xy: 490, 1073
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_01
+  rotate: false
+  xy: 2, 763
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_02
+  rotate: false
+  xy: 807, 1073
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_03
+  rotate: false
+  xy: 807, 756
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_04
+  rotate: false
+  xy: 490, 446
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_05
+  rotate: false
+  xy: 2, 136
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_06
+  rotate: false
+  xy: 807, 439
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_07
+  rotate: false
+  xy: 455, 129
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_08
+  rotate: false
+  xy: 772, 122
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxijiesaunbaiguang/fx_speedlines_000
+  rotate: false
+  xy: 319, 763
+  size: 486, 308
+  orig: 486, 308
+  offset: 0, 0
+  index: -1
+mianfeiyouxijiesaunbaiguang/fx_speedlines_001
+  rotate: false
+  xy: 2, 453
+  size: 486, 308
+  orig: 486, 308
+  offset: 0, 0
+  index: -1
+mianfeiyouxijiesaunbaiguang/fx_speedlines_002
+  rotate: false
+  xy: 2, 1080
+  size: 486, 308
+  orig: 486, 308
+  offset: 0, 0
+  index: -1
+
+game_bg2.png
+size: 953,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_09
+  rotate: false
+  xy: 2, 319
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_10
+  rotate: false
+  xy: 2, 2
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_11
+  rotate: false
+  xy: 319, 319
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_12
+  rotate: false
+  xy: 319, 2
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_13
+  rotate: false
+  xy: 636, 319
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_14
+  rotate: false
+  xy: 636, 2
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1

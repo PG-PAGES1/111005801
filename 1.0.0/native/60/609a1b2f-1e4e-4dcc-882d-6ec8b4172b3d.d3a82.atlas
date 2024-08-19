@@ -1,0 +1,90 @@
+
+f_p4_atlas_bonus.png
+size: 1375,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 828, 26
+  size: 219, 219
+  orig: 228, 231
+  offset: 4, 6
+  index: -1
+ball_shdw
+  rotate: true
+  xy: 1210, 442
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+fx_zblur_p4
+  rotate: false
+  xy: 1049, 50
+  size: 324, 330
+  orig: 324, 330
+  offset: 0, 0
+  index: -1
+p4x_arm_R
+  rotate: false
+  xy: 1093, 604
+  size: 261, 173
+  orig: 261, 173
+  offset: 0, 0
+  index: -1
+p4x_body
+  rotate: true
+  xy: 450, 242
+  size: 535, 360
+  orig: 535, 360
+  offset: 0, 0
+  index: -1
+p4x_clothing
+  rotate: false
+  xy: 812, 382
+  size: 279, 395
+  orig: 279, 395
+  offset: 0, 0
+  index: -1
+p4x_clothing_b
+  rotate: false
+  xy: 1093, 388
+  size: 115, 214
+  orig: 115, 214
+  offset: 0, 0
+  index: -1
+p4x_head
+  rotate: false
+  xy: 637, 10
+  size: 189, 230
+  orig: 193, 230
+  offset: 0, 0
+  index: -1
+p4x_legs
+  rotate: true
+  xy: 2, 113
+  size: 664, 446
+  orig: 664, 446
+  offset: 0, 0
+  index: -1
+p4x_shoe
+  rotate: true
+  xy: 450, 5
+  size: 235, 185
+  orig: 250, 201
+  offset: 7, 8
+  index: -1
+p5_fx_debris
+  rotate: true
+  xy: 812, 247
+  size: 133, 176
+  orig: 140, 188
+  offset: 0, 1
+  index: -1
+p5_fx_dust
+  rotate: true
+  xy: 2, 2
+  size: 109, 174
+  orig: 155, 206
+  offset: 31, 32
+  index: -1

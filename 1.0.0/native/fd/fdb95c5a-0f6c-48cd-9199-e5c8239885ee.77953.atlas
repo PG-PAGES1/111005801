@@ -1,0 +1,97 @@
+
+anniu.png
+size: 821,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanzhuananniutexiao
+  rotate: false
+  xy: 2, 83
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_00
+  rotate: false
+  xy: 311, 272
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_01
+  rotate: true
+  xy: 446, 257
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_02
+  rotate: true
+  xy: 311, 137
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_03
+  rotate: false
+  xy: 431, 137
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_04
+  rotate: true
+  xy: 566, 257
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_05
+  rotate: true
+  xy: 566, 122
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_06
+  rotate: false
+  xy: 311, 17
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_07
+  rotate: true
+  xy: 446, 2
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_08
+  rotate: false
+  xy: 566, 2
+  size: 133, 118
+  orig: 141, 118
+  offset: 4, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_09
+  rotate: true
+  xy: 686, 259
+  size: 131, 118
+  orig: 141, 118
+  offset: 5, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_10
+  rotate: false
+  xy: 686, 139
+  size: 131, 118
+  orig: 141, 118
+  offset: 5, 0
+  index: -1
+xuanzhuananniuxuanzhuantexiao/spin_vfx_a_11
+  rotate: true
+  xy: 701, 8
+  size: 129, 118
+  orig: 141, 118
+  offset: 6, 0
+  index: -1

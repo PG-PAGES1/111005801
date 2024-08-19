@@ -1,0 +1,271 @@
+
+win.jpg
+size: 1518,1504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzhoujiasutexiao/fs_vfx_b_00
+  rotate: true
+  xy: 760, 1457
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_01
+  rotate: true
+  xy: 998, 1457
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_02
+  rotate: true
+  xy: 1236, 1457
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_03
+  rotate: true
+  xy: 2, 1454
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_04
+  rotate: true
+  xy: 240, 1454
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_05
+  rotate: true
+  xy: 478, 1454
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_06
+  rotate: true
+  xy: 716, 1413
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_07
+  rotate: true
+  xy: 954, 1413
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_08
+  rotate: true
+  xy: 1192, 1413
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_09
+  rotate: true
+  xy: 2, 1410
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_10
+  rotate: true
+  xy: 240, 1410
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+gunzhoujiasutexiao/fs_vfx_b_11
+  rotate: true
+  xy: 478, 1410
+  size: 42, 236
+  orig: 42, 236
+  offset: 0, 0
+  index: -1
+mianfeijiesuanbeijin/tw_vfx_a_01
+  rotate: false
+  xy: 760, 1501
+  size: 756, 1
+  orig: 756, 1
+  offset: 0, 0
+  index: -1
+mianfeijiesuanbeijin/tw_vfx_a_02
+  rotate: false
+  xy: 2, 1498
+  size: 756, 1
+  orig: 756, 1
+  offset: 0, 0
+  index: -1
+mianfeijiesuanbeijin/tw_vfx_a_03
+  rotate: false
+  xy: 2, 1501
+  size: 756, 1
+  orig: 756, 1
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_00
+  rotate: false
+  xy: 2, 1058
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_01
+  rotate: false
+  xy: 354, 1058
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_02
+  rotate: false
+  xy: 706, 899
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_03
+  rotate: false
+  xy: 1058, 899
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_04
+  rotate: false
+  xy: 2, 706
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_05
+  rotate: false
+  xy: 354, 706
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_06
+  rotate: false
+  xy: 706, 547
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_07
+  rotate: false
+  xy: 1058, 547
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_08
+  rotate: false
+  xy: 2, 354
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_09
+  rotate: false
+  xy: 354, 354
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_10
+  rotate: false
+  xy: 706, 195
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_11
+  rotate: false
+  xy: 1058, 195
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_12
+  rotate: false
+  xy: 2, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_13
+  rotate: false
+  xy: 354, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+youxibeijinhe bobaokuangyijidajiang/infoboard_vfx_d
+  rotate: false
+  xy: 716, 1251
+  size: 544, 160
+  orig: 544, 160
+  offset: 0, 0
+  index: -1
+
+win2.jpg
+size: 1292,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanjiemian/tw_vfx_b_01
+  rotate: true
+  xy: 2, 436
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+mianfeijiesuanjiemian/tw_vfx_b_02
+  rotate: true
+  xy: 2, 2
+  size: 432, 936
+  orig: 432, 936
+  offset: 0, 0
+  index: -1
+mianfeiyouxibeijinbaiseguangxiao/fx_speedlines_hori_14
+  rotate: false
+  xy: 940, 518
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+
+
+win3.png
+size: 1555,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanbeijin/tw_bg
+  rotate: true
+  xy: 2, 35
+  size: 189, 410
+  orig: 189, 410
+  offset: 0, 0
+  index: -1
+mianfeijiesuanjiemian/tw_character
+  rotate: true
+  xy: 2, 226
+  size: 756, 1095
+  orig: 756, 1202
+  offset: 0, 0
+  index: -1
+mianfeijiesuanjiemian/tw_confetii
+  rotate: false
+  xy: 1099, 2
+  size: 454, 980
+  orig: 454, 980
+  offset: 0, 0
+  index: -1

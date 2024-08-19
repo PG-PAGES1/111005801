@@ -1,0 +1,278 @@
+
+bigwin.png
+size: 1221,1294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 184, 1203
+  size: 89, 89
+  orig: 92, 92
+  offset: 2, 1
+  index: -1
+bw_board
+  rotate: false
+  xy: 169, 884
+  size: 529, 145
+  orig: 529, 145
+  offset: 0, 0
+  index: -1
+bw_trophy
+  rotate: true
+  xy: 732, 556
+  size: 256, 344
+  orig: 256, 344
+  offset: 0, 0
+  index: -1
+bw_vfx_d
+  rotate: false
+  xy: 249, 661
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+dajianglansetexiao/bw_vfx_e_00
+  rotate: false
+  xy: 841, 1178
+  size: 126, 114
+  orig: 370, 370
+  offset: 122, 129
+  index: -1
+dajianglansetexiao/bw_vfx_e_01
+  rotate: false
+  xy: 700, 820
+  size: 192, 188
+  orig: 370, 370
+  offset: 91, 92
+  index: -1
+dajianglansetexiao/bw_vfx_e_02
+  rotate: false
+  xy: 472, 574
+  size: 258, 244
+  orig: 370, 370
+  offset: 51, 63
+  index: -1
+dajianglansetexiao/bw_vfx_e_03
+  rotate: false
+  xy: 268, 310
+  size: 278, 262
+  orig: 370, 370
+  offset: 42, 57
+  index: -1
+dajianglansetexiao/bw_vfx_e_04
+  rotate: true
+  xy: 2, 2
+  size: 306, 310
+  orig: 370, 370
+  offset: 33, 29
+  index: -1
+dajianglansetexiao/bw_vfx_e_08
+  rotate: false
+  xy: 856, 270
+  size: 306, 284
+  orig: 370, 370
+  offset: 33, 52
+  index: -1
+dajianglansetexiao/bw_vfx_e_09
+  rotate: false
+  xy: 548, 282
+  size: 306, 272
+  orig: 370, 370
+  offset: 34, 61
+  index: -1
+dajianglansetexiao/bw_vfx_e_10
+  rotate: false
+  xy: 2, 401
+  size: 264, 258
+  orig: 370, 370
+  offset: 50, 66
+  index: -1
+dajianglansetexiao/bw_vfx_e_11
+  rotate: false
+  xy: 2, 1280
+  size: 12, 12
+  orig: 370, 370
+  offset: 115, 303
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_00
+  rotate: false
+  xy: 131, 1243
+  size: 51, 49
+  orig: 191, 191
+  offset: 70, 71
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_01
+  rotate: false
+  xy: 275, 1203
+  size: 89, 89
+  orig: 191, 191
+  offset: 51, 51
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_02
+  rotate: false
+  xy: 509, 1035
+  size: 155, 155
+  orig: 191, 191
+  offset: 18, 19
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_03
+  rotate: false
+  xy: 831, 1010
+  size: 163, 163
+  orig: 191, 191
+  offset: 14, 15
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_04
+  rotate: false
+  xy: 996, 1008
+  size: 165, 163
+  orig: 191, 191
+  offset: 13, 15
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_05
+  rotate: false
+  xy: 2, 902
+  size: 165, 165
+  orig: 191, 191
+  offset: 13, 14
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_06
+  rotate: false
+  xy: 666, 1031
+  size: 163, 159
+  orig: 191, 191
+  offset: 14, 16
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_07
+  rotate: true
+  xy: 362, 1056
+  size: 143, 145
+  orig: 191, 191
+  offset: 31, 21
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_08
+  rotate: true
+  xy: 2, 1100
+  size: 141, 143
+  orig: 191, 191
+  offset: 31, 22
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_09
+  rotate: false
+  xy: 1094, 1173
+  size: 125, 119
+  orig: 191, 191
+  offset: 32, 41
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_10
+  rotate: false
+  xy: 969, 1175
+  size: 123, 117
+  orig: 191, 191
+  offset: 34, 42
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_11
+  rotate: false
+  xy: 366, 1201
+  size: 115, 91
+  orig: 191, 191
+  offset: 40, 48
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_12
+  rotate: false
+  xy: 483, 1201
+  size: 115, 91
+  orig: 191, 191
+  offset: 40, 47
+  index: -1
+dajiangqiehuanjinsetexiao/team_vfx_d_13
+  rotate: false
+  xy: 16, 1267
+  size: 113, 25
+  orig: 191, 191
+  offset: 41, 111
+  index: -1
+jinrudajiangzuqiutexiao/bw_vfx_a_00
+  rotate: false
+  xy: 894, 814
+  size: 245, 192
+  orig: 245, 212
+  offset: 0, 1
+  index: -1
+jinrudajiangzuqiutexiao/bw_vfx_a_01
+  rotate: false
+  xy: 2, 690
+  size: 245, 192
+  orig: 245, 212
+  offset: 0, 1
+  index: -1
+jinrudajiangzuqiutexiao/bw_vfx_a_02
+  rotate: false
+  xy: 600, 1192
+  size: 239, 100
+  orig: 245, 212
+  offset: 3, 95
+  index: -1
+jinrudajiangzuqiutexiao/bw_vfx_a_03
+  rotate: false
+  xy: 147, 1069
+  size: 213, 132
+  orig: 245, 212
+  offset: 15, 64
+  index: -1
+
+bigwin2.png
+size: 1205,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_b
+  rotate: false
+  xy: 2, 67
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+bw_vfx_c
+  rotate: false
+  xy: 388, 73
+  size: 378, 378
+  orig: 378, 378
+  offset: 0, 0
+  index: -1
+dajianglansetexiao/bw_vfx_e_05
+  rotate: false
+  xy: 768, 2
+  size: 312, 316
+  orig: 370, 370
+  offset: 32, 26
+  index: -1
+dajianglansetexiao/bw_vfx_e_06
+  rotate: false
+  xy: 879, 320
+  size: 322, 322
+  orig: 370, 370
+  offset: 28, 20
+  index: -1
+dajianglansetexiao/bw_vfx_e_07
+  rotate: false
+  xy: 879, 644
+  size: 324, 324
+  orig: 370, 370
+  offset: 27, 19
+  index: -1
+mw_trophy
+  rotate: true
+  xy: 505, 482
+  size: 486, 372
+  orig: 486, 372
+  offset: 0, 0
+  index: -1
+smw_trophy
+  rotate: true
+  xy: 2, 453
+  size: 515, 501
+  orig: 515, 501
+  offset: 0, 0
+  index: -1

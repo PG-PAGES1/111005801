@@ -1,0 +1,27 @@
+
+bgzuqiu.png
+size: 1133,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_game_ball
+  rotate: false
+  xy: 1082, 710
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+main_game_bg
+  rotate: true
+  xy: 542, 2
+  size: 756, 538
+  orig: 756, 538
+  offset: 0, 0
+  index: -1
+main_game_sunlight
+  rotate: true
+  xy: 2, 2
+  size: 756, 538
+  orig: 756, 538
+  offset: 0, 0
+  index: -1

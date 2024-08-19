@@ -1,0 +1,398 @@
+
+fx_zhuanhuan.jpg
+size: 1272,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_00
+  rotate: true
+  xy: 599, 2
+  size: 90, 95
+  orig: 118, 119
+  offset: 4, 14
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_01
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 118, 119
+  offset: 0, 116
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_02
+  rotate: false
+  xy: 696, 3
+  size: 106, 91
+  orig: 118, 119
+  offset: 1, 14
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_03
+  rotate: false
+  xy: 478, 342
+  size: 116, 103
+  orig: 118, 119
+  offset: 1, 6
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_04
+  rotate: false
+  xy: 242, 330
+  size: 114, 115
+  orig: 118, 119
+  offset: 4, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_05
+  rotate: true
+  xy: 467, 90
+  size: 118, 107
+  orig: 118, 119
+  offset: 0, 11
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_06
+  rotate: true
+  xy: 356, 210
+  size: 118, 111
+  orig: 118, 119
+  offset: 0, 8
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_07
+  rotate: true
+  xy: 241, 206
+  size: 118, 113
+  orig: 118, 119
+  offset: 0, 6
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_08
+  rotate: true
+  xy: 122, 86
+  size: 118, 115
+  orig: 118, 119
+  offset: 0, 4
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_09
+  rotate: false
+  xy: 2, 326
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_10
+  rotate: false
+  xy: 2, 205
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_11
+  rotate: false
+  xy: 2, 84
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_12
+  rotate: false
+  xy: 122, 326
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_13
+  rotate: true
+  xy: 122, 206
+  size: 118, 117
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_14
+  rotate: true
+  xy: 239, 86
+  size: 118, 115
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_15
+  rotate: false
+  xy: 358, 334
+  size: 118, 111
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_16
+  rotate: true
+  xy: 356, 90
+  size: 118, 109
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_17
+  rotate: true
+  xy: 469, 214
+  size: 118, 107
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_18
+  rotate: true
+  xy: 576, 94
+  size: 118, 105
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_19
+  rotate: true
+  xy: 578, 222
+  size: 118, 101
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_20
+  rotate: false
+  xy: 596, 346
+  size: 118, 99
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_21
+  rotate: true
+  xy: 681, 226
+  size: 118, 95
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_22
+  rotate: false
+  xy: 2, 7
+  size: 118, 75
+  orig: 118, 119
+  offset: 0, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_23
+  rotate: true
+  xy: 1003, 61
+  size: 82, 73
+  orig: 118, 119
+  offset: 19, 1
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_24
+  rotate: false
+  xy: 1174, 2
+  size: 62, 67
+  orig: 118, 119
+  offset: 20, 4
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_25
+  rotate: true
+  xy: 1003, 3
+  size: 56, 55
+  orig: 118, 119
+  offset: 23, 12
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_26
+  rotate: false
+  xy: 784, 97
+  size: 38, 39
+  orig: 118, 119
+  offset: 33, 18
+  index: -1
+qiuyuanzhuanhuanlansetexiao/transform_vfx_e_27
+  rotate: true
+  xy: 308, 2
+  size: 6, 7
+  orig: 118, 119
+  offset: 48, 33
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_00
+  rotate: true
+  xy: 716, 346
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_01
+  rotate: false
+  xy: 683, 122
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_02
+  rotate: false
+  xy: 778, 242
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_03
+  rotate: true
+  xy: 820, 346
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_04
+  rotate: false
+  xy: 784, 138
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_05
+  rotate: false
+  xy: 879, 242
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_06
+  rotate: true
+  xy: 924, 346
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_07
+  rotate: false
+  xy: 885, 138
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_08
+  rotate: false
+  xy: 980, 242
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_09
+  rotate: true
+  xy: 1028, 346
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_loop_10
+  rotate: false
+  xy: 902, 34
+  size: 99, 102
+  orig: 99, 106
+  offset: 0, 2
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_00
+  rotate: true
+  xy: 7, 2
+  size: 3, 2
+  orig: 99, 106
+  offset: 1, 104
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_15
+  rotate: true
+  xy: 7, 2
+  size: 3, 2
+  orig: 99, 106
+  offset: 1, 104
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_01
+  rotate: false
+  xy: 683, 96
+  size: 91, 24
+  orig: 99, 106
+  offset: 4, 78
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_02
+  rotate: true
+  xy: 804, 2
+  size: 93, 96
+  orig: 99, 106
+  offset: 3, 5
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_03
+  rotate: false
+  xy: 1082, 151
+  size: 91, 94
+  orig: 99, 106
+  offset: 4, 6
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_04
+  rotate: false
+  xy: 1132, 351
+  size: 93, 94
+  orig: 99, 106
+  offset: 3, 9
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_05
+  rotate: false
+  xy: 1175, 163
+  size: 93, 92
+  orig: 99, 106
+  offset: 3, 10
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_06
+  rotate: false
+  xy: 219, 2
+  size: 87, 82
+  orig: 99, 106
+  offset: 9, 20
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_07
+  rotate: true
+  xy: 986, 145
+  size: 95, 94
+  orig: 99, 106
+  offset: 1, 7
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_08
+  rotate: true
+  xy: 1081, 247
+  size: 97, 92
+  orig: 99, 106
+  offset: 1, 7
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_09
+  rotate: false
+  xy: 1175, 71
+  size: 95, 90
+  orig: 99, 106
+  offset: 1, 4
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_10
+  rotate: false
+  xy: 1175, 257
+  size: 95, 92
+  orig: 99, 106
+  offset: 1, 6
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_11
+  rotate: true
+  xy: 1082, 54
+  size: 95, 90
+  orig: 99, 106
+  offset: 1, 4
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_12
+  rotate: false
+  xy: 502, 4
+  size: 95, 84
+  orig: 99, 106
+  offset: 1, 10
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_13
+  rotate: false
+  xy: 403, 2
+  size: 97, 86
+  orig: 99, 106
+  offset: 1, 12
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_14
+  rotate: false
+  xy: 122, 4
+  size: 95, 80
+  orig: 99, 106
+  offset: 1, 13
+  index: -1
+qiuyuanzhuanhuantexiao/transform_vfx_d_spawn_16
+  rotate: false
+  xy: 308, 10
+  size: 93, 74
+  orig: 99, 106
+  offset: 1, 18
+  index: -1
